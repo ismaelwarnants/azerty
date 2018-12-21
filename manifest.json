@@ -1,0 +1,16 @@
+{
+  "name": "Samenvattingen",
+  "short_name": "Samenvattingen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "https://stepantaz.github.io/index.html",
+  "theme_color": "#C70450",
+  "background_color": "#C70450",
+  "icons": [
+    {
+      "src": "icon2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
